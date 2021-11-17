@@ -1,0 +1,32 @@
+.generic-table{
+    font-size: 12px;
+}
+
+input.generic-table{
+    font-size: 12px;
+}
+
+.generic-table.image{
+    width: 3rem;
+}
+
+span.generic-table.tag-a{
+    color:#90A4AE;
+    text-decoration: underline;
+    cursor: pointer;
+}
+
+tr.generic-table.tr-title{
+    color: #757575;
+    font-size: 10px;
+    text-align: left;
+}
+
+tr.generic-table.tr-border{
+    border: 1px solid #E0E0E0;    
+    padding-bottom:3px ;
+}
+
+.generic-table.error-class{
+    border: 1px solid red;
+}
